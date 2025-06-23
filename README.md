@@ -13,8 +13,7 @@ Assignment files for the Python program
 			<li> Multiplication </li>
 			<li> Division </li>
 			</ul>
-		<li>Displays the results of each operation on the screen. </li>
-		/ol>
+		<li>Displays the results of each operation on the screen. </li> </ol>
   <h2>Task 2: </h2>
  	A Python program that: <br>
 		<ol>
